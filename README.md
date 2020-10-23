@@ -4,4 +4,4 @@ This is one of projects from a Data Science Workshop 2019 held by Graduate Data 
 
 Our team's official repo is [here](https://github.com/susanhao/emotion_project)
 
-This personal repo documents further details
+This is a personal repo
